@@ -8,6 +8,10 @@ This is made using plain html, css, javaScript. No css preprocessors used, and t
 
 ## idea and the main design
 
+<br>
+
+<img src="./images/demo2.gif" alt="demo2.gif">
+
 This projects' most of the code is from the following repository by `coders gyan`
 
 link: <a href="https://github.com/codersgyan/responsive-portfolio-website">https://github.com/codersgyan/responsive-portfolio-website</a>
